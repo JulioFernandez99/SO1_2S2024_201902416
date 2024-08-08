@@ -19,7 +19,7 @@ MODULE_DESCRIPTION("Modulo para leer informacion de memoria y CPU");
 MODULE_VERSION("1.0");
 
 
-#define PROC_NAME "sysinfo" // nombre del archivo en /proc
+#define PROC_NAME "tarea1" // nombre del archivo en /proc
 
 static void show_process_tree(struct seq_file *m, struct task_struct *task, int level) {
     struct task_struct *child;
