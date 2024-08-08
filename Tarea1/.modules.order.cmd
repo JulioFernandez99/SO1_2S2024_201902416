@@ -1,0 +1,1 @@
+cmd_/home/julio_fernandez/Escritorio/2S2024/SOPES/Laboratorio/SO1_2S2024_201902416/Tarea1/modules.order := {   echo /home/julio_fernandez/Escritorio/2S2024/SOPES/Laboratorio/SO1_2S2024_201902416/Tarea1/sysinfo.ko; :; } | awk '!x[$$0]++' - > /home/julio_fernandez/Escritorio/2S2024/SOPES/Laboratorio/SO1_2S2024_201902416/Tarea1/modules.order
