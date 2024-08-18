@@ -1,0 +1,1 @@
+cmd_/home/julio_fernandez/Escritorio/Proyectos_2S/SOPES/Proyecto1/Modulo/modulo.mod := { echo  /home/julio_fernandez/Escritorio/Proyectos_2S/SOPES/Proyecto1/Modulo/modulo.o;  echo; } > /home/julio_fernandez/Escritorio/Proyectos_2S/SOPES/Proyecto1/Modulo/modulo.mod
