@@ -1,2 +1,1 @@
-/home/julio_fernandez/Escritorio/Proyectos_2S/SOPES/Proyecto1/Modulo/modulo.o
-
+/home/julio-fernandez/Escritorio/Proyectos_2S/SOPES/Proyecto1-Oficial/Modulo/modulo.o

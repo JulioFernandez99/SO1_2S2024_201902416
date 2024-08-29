@@ -1,0 +1,48 @@
+{
+  "current_time": "2024-08-29T13:12:58.487343483-06:00",
+  "killed_containers": [],
+  "high_consumption_containers": [
+    {
+      "PID": 130846,
+      "Name": "containerd-shim",
+      "Cmdline": "/usr/bin/containerd-shim-runc-v2 -namespace moby -id 19ba005a663b7e6e59843d4f83938e87efda395c63b835db05acf5841d145dad -address /run/containerd/containerd.sock ",
+      "MemoryUsage": 0.17,
+      "CPUUsage": 0.13
+    },
+    {
+      "PID": 131062,
+      "Name": "containerd-shim",
+      "Cmdline": "/usr/bin/containerd-shim-runc-v2 -namespace moby -id ad9b2a8c854fa4b3106b03f166f3ce2390e2905c8396bb0bac7e35c7cc810e9d -address /run/containerd/containerd.sock ",
+      "MemoryUsage": 0.17,
+      "CPUUsage": 0.11
+    }
+  ],
+  "low_consumption_containers": [
+    {
+      "PID": 130742,
+      "Name": "containerd-shim",
+      "Cmdline": "/usr/bin/containerd-shim-runc-v2 -namespace moby -id e65d947fa7975dac8bfbf54f12d8585ca1e8876d61ffa7b9e974e812ae86d090 -address /run/containerd/containerd.sock ",
+      "MemoryUsage": 0.17,
+      "CPUUsage": 0.06
+    },
+    {
+      "PID": 130623,
+      "Name": "containerd-shim",
+      "Cmdline": "/usr/bin/containerd-shim-runc-v2 -namespace moby -id 76a43279868b7e9784e0e65120bba059677498ec47db38716b15e893a7e5ae74 -address /run/containerd/containerd.sock ",
+      "MemoryUsage": 0.17,
+      "CPUUsage": 0.06
+    },
+    {
+      "PID": 130505,
+      "Name": "containerd-shim",
+      "Cmdline": "/usr/bin/containerd-shim-runc-v2 -namespace moby -id bb078a153febad6565856fd5a1adabc5073b4cc356bca88f4054c130d646d7a1 -address /run/containerd/containerd.sock ",
+      "MemoryUsage": 0.17,
+      "CPUUsage": 0.06
+    }
+  ],
+  "memory_info": {
+    "total_ram_kb": 7677676,
+    "free_ram_kb": 455380,
+    "in_use_ram_kb": 7222296
+  }
+}

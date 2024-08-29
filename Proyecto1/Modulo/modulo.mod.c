@@ -2,8 +2,14 @@
 #define INCLUDE_VERMAGIC
 #include <linux/build-salt.h>
 #include <linux/elfnote-lto.h>
+#include <linux/export-internal.h>
 #include <linux/vermagic.h>
 #include <linux/compiler.h>
+
+#ifdef CONFIG_UNWINDER_ORC
+#include <asm/orc_header.h>
+ORC_HEADER;
+#endif
 
 BUILD_SALT;
 BUILD_LTO_INFO;
@@ -25,23 +31,59 @@ __section(".gnu.linkonce.this_module") = {
 MODULE_INFO(retpoline, "Y");
 #endif
 
-static const struct modversion_info ____versions[]
-__used __section("__versions") = {
-	{ 0xcb440b5e, "module_layout" },
-	{ 0x6b6889b6, "seq_read" },
-	{ 0xa93bfc46, "remove_proc_entry" },
-	{ 0x92997ed8, "_printk" },
-	{ 0xe832bcc7, "proc_create" },
-	{ 0xd0da656b, "__stack_chk_fail" },
-	{ 0x1e6d26a8, "strstr" },
-	{ 0xe4133be1, "init_task" },
-	{ 0xe7a4bdfe, "seq_printf" },
-	{ 0x40c7247c, "si_meminfo" },
-	{ 0xc1025998, "single_open" },
-	{ 0xbdfb6dbb, "__fentry__" },
-};
+
+
+static const char ____versions[]
+__used __section("__versions") =
+	"\x14\x00\x00\x00\x3b\xdd\xda\x3e"
+	"single_open\0"
+	"\x10\x00\x00\x00\xa6\x50\xba\x15"
+	"jiffies\0"
+	"\x14\x00\x00\x00\x7c\x24\xc7\x40"
+	"si_meminfo\0\0"
+	"\x14\x00\x00\x00\xa7\xb3\x26\x6d"
+	"seq_printf\0\0"
+	"\x14\x00\x00\x00\x2e\x5e\x1c\x44"
+	"init_task\0\0\0"
+	"\x10\x00\x00\x00\x5a\x25\xd5\xe2"
+	"strcmp\0\0"
+	"\x1c\x00\x00\x00\x63\xa5\x03\x4c"
+	"random_kmalloc_seed\0"
+	"\x18\x00\x00\x00\xd4\x9c\x99\xf2"
+	"kmalloc_caches\0\0"
+	"\x18\x00\x00\x00\x3a\xdc\x24\x45"
+	"kmalloc_trace\0\0\0"
+	"\x14\x00\x00\x00\x72\x9f\xdf\xd0"
+	"get_task_mm\0"
+	"\x14\x00\x00\x00\xa1\x19\x8b\x66"
+	"down_read\0\0\0"
+	"\x10\x00\x00\x00\xa2\x54\xb9\x53"
+	"up_read\0"
+	"\x1c\x00\x00\x00\xe4\x5b\xcb\x91"
+	"access_process_vm\0\0\0"
+	"\x10\x00\x00\x00\xec\x31\x15\x5c"
+	"mmput\0\0\0"
+	"\x10\x00\x00\x00\xba\x0c\x7a\x03"
+	"kfree\0\0\0"
+	"\x1c\x00\x00\x00\xcb\xf6\xfd\xf0"
+	"__stack_chk_fail\0\0\0\0"
+	"\x1c\x00\x00\x00\x22\xa3\x94\x23"
+	"remove_proc_entry\0\0\0"
+	"\x14\x00\x00\x00\x70\x77\xa5\x2f"
+	"seq_read\0\0\0\0"
+	"\x14\x00\x00\x00\xbb\x6d\xfb\xbd"
+	"__fentry__\0\0"
+	"\x14\x00\x00\x00\x65\x7b\x2d\x6e"
+	"proc_create\0"
+	"\x10\x00\x00\x00\x7e\x3a\x2c\x12"
+	"_printk\0"
+	"\x1c\x00\x00\x00\xca\x39\x82\x5b"
+	"__x86_return_thunk\0\0"
+	"\x18\x00\x00\x00\xe8\xd8\x3d\xf5"
+	"module_layout\0\0\0"
+	"\x00\x00\x00\x00\x00\x00\x00\x00";
 
 MODULE_INFO(depends, "");
 
 
-MODULE_INFO(srcversion, "90006A52A5E4CF4CB5A6906");
+MODULE_INFO(srcversion, "D16EC96999E2E666675BCD8");
