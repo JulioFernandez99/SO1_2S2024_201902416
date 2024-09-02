@@ -1,0 +1,11 @@
+/home/julio-fernandez/Escritorio/Proyectos_2S/SO1_2S2024_201902416/Proyecto1/servicio-rust/target/debug/deps/liburl-7eb1c46b397cbcd9.rmeta: /home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/lib.rs /home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/host.rs /home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/origin.rs /home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/parser.rs /home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/path_segments.rs /home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/slicing.rs /home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/quirks.rs
+
+/home/julio-fernandez/Escritorio/Proyectos_2S/SO1_2S2024_201902416/Proyecto1/servicio-rust/target/debug/deps/url-7eb1c46b397cbcd9.d: /home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/lib.rs /home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/host.rs /home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/origin.rs /home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/parser.rs /home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/path_segments.rs /home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/slicing.rs /home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/quirks.rs
+
+/home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/lib.rs:
+/home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/host.rs:
+/home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/origin.rs:
+/home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/parser.rs:
+/home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/path_segments.rs:
+/home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/slicing.rs:
+/home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.5.2/src/quirks.rs:
