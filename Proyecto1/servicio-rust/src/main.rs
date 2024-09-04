@@ -130,8 +130,8 @@ fn analyzer(system_info: SystemInfo) -> AnalyzerOutput {
     // Obtener los 2 procesos de mayor consumo
     let highest_list: Vec<Process> = processes_list.iter().take(2).map(|p| p.clone()).collect();
 
-    // Evitar eliminar contenedores cuyo ID coincide con los primeros 12 caracteres de "5d824b2fbe94"
-    let skip_id_prefix = "5d824b2fbe94";
+    // Evitar eliminar contenedores cuyo ID coincide con los primeros 12 caracteres de "6c2678e2902f"
+    let skip_id_prefix: &str = "6c2678e2902f";
 
     // Preparar lista para eliminar contenedores
     let mut containers_to_kill: Vec<Process> = Vec::new();

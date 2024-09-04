@@ -1,0 +1,1 @@
+/home/julio-fernandez/Escritorio/Proyectos_2S/SO1_2S2024_201902416/Proyecto1/servicio-rust/target/debug/servicio-rust: /home/julio-fernandez/Escritorio/Proyectos_2S/SO1_2S2024_201902416/Proyecto1/servicio-rust/src/main.rs

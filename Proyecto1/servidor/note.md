@@ -9,7 +9,7 @@
 
 - Levantar fastApi -> ```fastapi dev main.py```
 
-- Creando requirenments.txr -> ```pip freeze > requirenments.txt```
+- Creando requirenments.txr -> ```pip freeze > requirements.txt```
 
 - Crear imagen con el Dockerfile -> ```sudo docker build -t py_image .```
 

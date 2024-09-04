@@ -30,5 +30,6 @@ typer==0.12.4
 typing_extensions==4.12.2
 uvicorn==0.30.6
 uvloop==0.20.0
-watchfiles==0.23.0
 websockets==13.0
+matplotlib==3.5.1
+numpy==1.26.3
