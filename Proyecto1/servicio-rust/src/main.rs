@@ -112,9 +112,26 @@ fn analyzer(system_info: SystemInfo) -> AnalyzerOutput {
     let mut log_proc_list: Vec<LogProcess> = Vec::new();
     let mut processes_list: Vec<Process> = system_info.processes;
 
-    // Filtramos el contenedor 'servidor-log_registry'
+    // Filtrar el contenedor 'servidor-log_registry'
     let special_container_id = "servidor-log_registry";
     processes_list.retain(|process| process.get_image_name() != special_container_id);
+
+    // Verificar si el número total de contenedores (excluyendo el especial) es exactamente 5
+    if processes_list.len() == 6 {
+        // No eliminar ningún contenedor si hay exactamente 5 (excluyendo el especial)
+        let output = AnalyzerOutput {
+            current_time: print_current_time(),
+            killed_containers: Vec::new(), // No se eliminaron contenedores
+            high_consumption_containers: processes_list.clone(),
+            low_consumption_containers: Vec::new(),
+            memory_info: read_memory_info().unwrap_or_else(|_| MemoryInfo {
+                total_ram_kb: 0,
+                free_ram_kb: 0,
+                in_use_ram_kb: 0,
+            }),
+        };
+        return output;
+    }
 
     // Ordenar la lista de procesos por consumo (primero por CPU y luego por memoria)
     processes_list.sort_by(|a, b| {
@@ -124,23 +141,39 @@ fn analyzer(system_info: SystemInfo) -> AnalyzerOutput {
             .then_with(|| b.memory_usage.partial_cmp(&a.memory_usage).unwrap_or(std::cmp::Ordering::Equal))
     });
 
-    // Obtener los 3 procesos de menor consumo
-    let lowest_list: Vec<Process> = processes_list.iter().rev().take(3).map(|p| p.clone()).collect();
+    // Dividir en alto consumo y bajo consumo
+    let total_processes = processes_list.len();
+    let half_point = total_processes / 2;
 
-    // Obtener los 2 procesos de mayor consumo
-    let highest_list: Vec<Process> = processes_list.iter().take(2).map(|p| p.clone()).collect();
+    let high_consumption_containers: Vec<Process> = processes_list.iter().take(half_point).cloned().collect();
+    let low_consumption_containers: Vec<Process> = processes_list.iter().skip(half_point).cloned().collect();
 
-    // Evitar eliminar contenedores cuyo ID coincide con los primeros 12 caracteres de "6c2678e2902f"
-    let skip_id_prefix: &str = "6c2678e2902f";
+    // Seleccionamos los 2 de alto consumo y 3 de bajo consumo
+    let mut final_high_consumption: Vec<Process> = high_consumption_containers.iter().take(2).cloned().collect();
+    let mut final_low_consumption: Vec<Process> = low_consumption_containers.iter().take(3).cloned().collect();
 
-    // Preparar lista para eliminar contenedores
+    // Si hay menos de 2 en alto o 3 en bajo, ajustar para completar los 5
+    while final_high_consumption.len() < 2 && !low_consumption_containers.is_empty() {
+        if let Some(p) = low_consumption_containers.get(final_high_consumption.len()) {
+            final_high_consumption.push(p.clone());
+        }
+    }
+    
+    while final_low_consumption.len() < 3 && !high_consumption_containers.is_empty() {
+        if let Some(p) = high_consumption_containers.get(final_low_consumption.len()) {
+            final_low_consumption.push(p.clone());
+        }
+    }
+
+    // Evitar eliminar contenedores cuyo ID coincide con los primeros 12 caracteres de "e1dab6247ccb"
+    let skip_id_prefix: &str = "e1dab6247ccb";
     let mut containers_to_kill: Vec<Process> = Vec::new();
 
     for process in processes_list.iter() {
         let container_id = process.get_container_id().to_string();
         
         // Saltar si está en las listas de bajo o alto consumo
-        if lowest_list.contains(process) || highest_list.contains(process) {
+        if final_low_consumption.contains(process) || final_high_consumption.contains(process) {
             continue;
         }
 
@@ -186,13 +219,14 @@ fn analyzer(system_info: SystemInfo) -> AnalyzerOutput {
     let output = AnalyzerOutput {
         current_time: print_current_time(),
         killed_containers: log_proc_list,
-        high_consumption_containers: highest_list,
-        low_consumption_containers: lowest_list,
+        high_consumption_containers: final_high_consumption,
+        low_consumption_containers: final_low_consumption,
         memory_info,
     };
 
     output
 }
+
 
 fn read_proc_file(file_name: &str) -> io::Result<String> {
     let path = Path::new("/proc").join(file_name);
