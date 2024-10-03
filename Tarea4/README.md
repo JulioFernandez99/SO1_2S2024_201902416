@@ -167,6 +167,43 @@ Una vez que hayas terminado de probar y no necesites el clúster, puedes elimina
 gcloud container clusters delete mi-cluster-k8s --zone us-central1-a
 ```
 
+Después de probar NGINX, puedes eliminar el clúster con el siguiente comando
+
+Para eliminar un proyecto en Google Cloud Platform (GCP) usando el SDK de Google Cloud (`gcloud`), puedes seguir estos pasos. Ten en cuenta que eliminar un proyecto es una acción permanente y no se puede deshacer, así que asegúrate de que realmente deseas eliminar el proyecto.
+
+### Pasos para eliminar un proyecto
+
+1. **Abre la terminal**: Asegúrate de que tienes abierta la terminal o línea de comandos.
+
+2. **Autentícate (si es necesario)**: Si no te has autenticado, ejecuta:
+   ```bash
+   gcloud auth login
+   ```
+
+3. **Establece el proyecto actual (opcional)**: Si quieres eliminar un proyecto específico, primero puedes establecerlo como el proyecto actual (esto es opcional, pero puede ser útil). Por ejemplo, para establecer `mi-proyecto-k8s` como el proyecto actual:
+   ```bash
+   gcloud config set project mi-proyecto-k8s
+   ```
+
+4. **Elimina el proyecto**: Ejecuta el siguiente comando para eliminar el proyecto que deseas. Reemplaza `PROJECT_ID` con el ID del proyecto que deseas eliminar (en tu caso, puede ser `mi-proyecto-k8s` o `peerless-rite-436816-p4`):
+
+   ```bash
+   gcloud projects delete PROJECT_ID
+   ```
+
+   Por ejemplo, si deseas eliminar `mi-proyecto-k8s`:
+   ```bash
+   gcloud projects delete mi-proyecto-k8s
+   ```
+
+5. **Confirmación**: Durante el proceso, se te pedirá que confirmes que realmente deseas eliminar el proyecto. Sigue las instrucciones en pantalla.
+
+### Notas importantes:
+
+- **Consecuencias de la eliminación**: Todos los recursos asociados con el proyecto (como máquinas virtuales, bases de datos, etc.) se eliminarán de forma permanente. Asegúrate de hacer una copia de seguridad de cualquier dato importante antes de proceder.
+- **Permisos**: Necesitas tener permisos suficientes para eliminar el proyecto. Si no tienes los permisos necesarios, no podrás completar la acción.
+  
+
 --- 
 ### Explicacion
 
@@ -330,30 +367,30 @@ NGINX juega un papel crucial en el rendimiento y la escalabilidad de tus aplicac
 ### Verificacion de instalacion de Google Cloud SDK
 
 <div align="center">
-                        <a href="" target="_blank"><img src="recursos/T4-IMG1.png" style="width:50rem"></a>
+                        <a href="" target="_blank"><img src="Tarea4/recursos/T4-IMG1.png" style="width:50rem"></a>
 </div>
 
 
 ### Autenticación en tu cuenta de Google Cloud
 
 <div align="center">
-                        <a href="" target="_blank"><img src="recursos/T4-IMG2.png" style="width:50rem"></a>
+                        <a href="" target="_blank"><img src="Tarea4/recursos/T4-IMG2.png" style="width:50rem"></a>
 </div>
 
 ### Proyecto creado
 <div align="center">
-                        <a href="" target="_blank"><img src="recursos/T4-IMG6.png" style="width:50rem"></a>
+                        <a href="" target="_blank"><img src="Tarea4/recursos/T4-IMG6.png" style="width:50rem"></a>
 </div>
 
 ### Creación del clúster de Kubernetes
 
 <div align="center">
-                        <a href="" target="_blank"><img src="recursos/T4-IMG3.png" style="width:50rem"></a>
+                        <a href="" target="_blank"><img src="Tarea4/recursos/T4-IMG3.png" style="width:50rem"></a>
 </div>
 
 ### Configuración de kubectl
 <div align="center">
-                        <a href="" target="_blank"><img src="recursos/T4-IMG4.png" style="width:50rem"></a>
+                        <a href="" target="_blank"><img src="Tarea4/recursos/T4-IMG4.png" style="width:50rem"></a>
 </div>
 
 
