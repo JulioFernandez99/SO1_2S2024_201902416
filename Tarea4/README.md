@@ -330,35 +330,35 @@ NGINX juega un papel crucial en el rendimiento y la escalabilidad de tus aplicac
 ### Verificacion de instalacion de Google Cloud SDK
 
 <div align="center">
-                        <a href="" target="_blank"><img src="Tarea4/recursos/T4-IMG1.png" style="width:50rem"></a>
+                        <a href="" target="_blank"><img src="recursos/T4-IMG1.png" style="width:50rem"></a>
 </div>
 
 
 ### Autenticación en tu cuenta de Google Cloud
 
 <div align="center">
-                        <a href="" target="_blank"><img src="Tarea4/recursos/T4-IMG2.png" style="width:50rem"></a>
+                        <a href="" target="_blank"><img src="recursos/T4-IMG2.png" style="width:50rem"></a>
 </div>
 
 ### Proyecto creado
 <div align="center">
-                        <a href="" target="_blank"><img src="Tarea4/recursos/T4-IMG6.png" style="width:50rem"></a>
+                        <a href="" target="_blank"><img src="recursos/T4-IMG6.png" style="width:50rem"></a>
 </div>
 
 ### Creación del clúster de Kubernetes
 
 <div align="center">
-                        <a href="" target="_blank"><img src="Tarea4/recursos/T4-IMG3.png" style="width:50rem"></a>
+                        <a href="" target="_blank"><img src="recursos/T4-IMG3.png" style="width:50rem"></a>
 </div>
 
 ### Configuración de kubectl
 <div align="center">
-                        <a href="" target="_blank"><img src="Tarea4/recursos/T4-IMG4.png" style="width:50rem"></a>
+                        <a href="" target="_blank"><img src="recursos/T4-IMG4.png" style="width:50rem"></a>
 </div>
 
 
 ### Acceder a la IP pública
 <div align="center">
-                        <a href="" target="_blank"><img src="Tarea4/recursos/T4-IMG5.png" style="width:50rem"></a>
+                        <a href="" target="_blank"><img src="recursos/T4-IMG5.png" style="width:50rem"></a>
 </div>
 
