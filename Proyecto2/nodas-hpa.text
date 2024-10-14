@@ -1,0 +1,6 @@
+Primero ver si tenemos el servicio de metricas metrics-server -> minikube addons list
+Sino esta activado -> minikube addons enbale metrics-server
+Para ver si tengo el pod de las metricas -> kubectl -n kube-system get pods
+
+El HPA se aplica a los deployments, por ello en la etiqueta name de scaleTargetRef, va el 
+nombre del deployment

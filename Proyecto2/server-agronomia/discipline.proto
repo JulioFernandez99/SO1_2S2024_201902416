@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+service DisciplineService {
+    rpc SendStudent (Student) returns (Response);
+}
+
+message Student {
+    string student = 1;
+    int32 age = 2;
+    string faculty = 3;
+    int32 discipline = 4;
+}
+
+message Response {
+    string message = 1;
+}

@@ -1,0 +1,10 @@
+/home/julio-fernandez/Escritorio/SO1_2S2024_201902416/Proyecto2/server-ingenieria/target/debug/deps/libunicase-fd4ab04ef8243504.rmeta: /home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/lib.rs /home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/ascii.rs /home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/unicode/mod.rs /home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/unicode/map.rs
+
+/home/julio-fernandez/Escritorio/SO1_2S2024_201902416/Proyecto2/server-ingenieria/target/debug/deps/libunicase-fd4ab04ef8243504.rlib: /home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/lib.rs /home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/ascii.rs /home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/unicode/mod.rs /home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/unicode/map.rs
+
+/home/julio-fernandez/Escritorio/SO1_2S2024_201902416/Proyecto2/server-ingenieria/target/debug/deps/unicase-fd4ab04ef8243504.d: /home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/lib.rs /home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/ascii.rs /home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/unicode/mod.rs /home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/unicode/map.rs
+
+/home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/lib.rs:
+/home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/ascii.rs:
+/home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/unicode/mod.rs:
+/home/julio-fernandez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.7.0/src/unicode/map.rs:
