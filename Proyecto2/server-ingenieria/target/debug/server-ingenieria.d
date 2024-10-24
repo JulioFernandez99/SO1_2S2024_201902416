@@ -1,1 +1,0 @@
-/home/julio-fernandez/Escritorio/SO1_2S2024_201902416/Proyecto2/server-ingenieria/target/debug/server-ingenieria: /home/julio-fernandez/Escritorio/SO1_2S2024_201902416/Proyecto2/server-ingenieria/src/main.rs
