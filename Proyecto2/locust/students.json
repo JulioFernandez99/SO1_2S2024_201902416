@@ -1,0 +1,6002 @@
+[
+  {
+    "student": "nombre1",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre2",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre3",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre4",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre5",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre6",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre7",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre8",
+    "age": 30,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre9",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre10",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre11",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre12",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre13",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre14",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre15",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre16",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre17",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre18",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre19",
+    "age": 23,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre20",
+    "age": 25,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre21",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre22",
+    "age": 26,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre23",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre24",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre25",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre26",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre27",
+    "age": 30,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre28",
+    "age": 23,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre29",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre30",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre31",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre32",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre33",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre34",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre35",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre36",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre37",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre38",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre39",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre40",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre41",
+    "age": 23,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre42",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre43",
+    "age": 25,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre44",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre45",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre46",
+    "age": 30,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre47",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre48",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre49",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre50",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre51",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre52",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre53",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre54",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre55",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre56",
+    "age": 26,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre57",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre58",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre59",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre60",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre61",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre62",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre63",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre64",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre65",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre66",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre67",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre68",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre69",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre70",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre71",
+    "age": 26,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre72",
+    "age": 26,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre73",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre74",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre75",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre76",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre77",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre78",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre79",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre80",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre81",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre82",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre83",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre84",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre85",
+    "age": 25,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre86",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre87",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre88",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre89",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre90",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre91",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre92",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre93",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre94",
+    "age": 23,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre95",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre96",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre97",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre98",
+    "age": 26,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre99",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre100",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre101",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre102",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre103",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre104",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre105",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre106",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre107",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre108",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre109",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre110",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre111",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre112",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre113",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre114",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre115",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre116",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre117",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre118",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre119",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre120",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre121",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre122",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre123",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre124",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre125",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre126",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre127",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre128",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre129",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre130",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre131",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre132",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre133",
+    "age": 30,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre134",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre135",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre136",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre137",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre138",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre139",
+    "age": 23,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre140",
+    "age": 30,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre141",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre142",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre143",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre144",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre145",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre146",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre147",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre148",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre149",
+    "age": 26,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre150",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre151",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre152",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre153",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre154",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre155",
+    "age": 26,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre156",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre157",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre158",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre159",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre160",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre161",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre162",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre163",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre164",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre165",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre166",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre167",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre168",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre169",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre170",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre171",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre172",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre173",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre174",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre175",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre176",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre177",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre178",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre179",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre180",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre181",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre182",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre183",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre184",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre185",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre186",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre187",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre188",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre189",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre190",
+    "age": 23,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre191",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre192",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre193",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre194",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre195",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre196",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre197",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre198",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre199",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre200",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre201",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre202",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre203",
+    "age": 30,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre204",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre205",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre206",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre207",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre208",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre209",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre210",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre211",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre212",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre213",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre214",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre215",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre216",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre217",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre218",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre219",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre220",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre221",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre222",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre223",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre224",
+    "age": 30,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre225",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre226",
+    "age": 26,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre227",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre228",
+    "age": 23,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre229",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre230",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre231",
+    "age": 26,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre232",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre233",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre234",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre235",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre236",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre237",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre238",
+    "age": 30,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre239",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre240",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre241",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre242",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre243",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre244",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre245",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre246",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre247",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre248",
+    "age": 25,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre249",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre250",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre251",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre252",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre253",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre254",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre255",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre256",
+    "age": 30,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre257",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre258",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre259",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre260",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre261",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre262",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre263",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre264",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre265",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre266",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre267",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre268",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre269",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre270",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre271",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre272",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre273",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre274",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre275",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre276",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre277",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre278",
+    "age": 25,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre279",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre280",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre281",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre282",
+    "age": 30,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre283",
+    "age": 23,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre284",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre285",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre286",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre287",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre288",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre289",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre290",
+    "age": 26,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre291",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre292",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre293",
+    "age": 23,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre294",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre295",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre296",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre297",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre298",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre299",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre300",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre301",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre302",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre303",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre304",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre305",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre306",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre307",
+    "age": 23,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre308",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre309",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre310",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre311",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre312",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre313",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre314",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre315",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre316",
+    "age": 26,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre317",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre318",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre319",
+    "age": 25,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre320",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre321",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre322",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre323",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre324",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre325",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre326",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre327",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre328",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre329",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre330",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre331",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre332",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre333",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre334",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre335",
+    "age": 23,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre336",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre337",
+    "age": 25,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre338",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre339",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre340",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre341",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre342",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre343",
+    "age": 30,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre344",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre345",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre346",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre347",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre348",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre349",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre350",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre351",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre352",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre353",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre354",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre355",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre356",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre357",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre358",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre359",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre360",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre361",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre362",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre363",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre364",
+    "age": 25,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre365",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre366",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre367",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre368",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre369",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre370",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre371",
+    "age": 26,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre372",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre373",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre374",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre375",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre376",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre377",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre378",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre379",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre380",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre381",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre382",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre383",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre384",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre385",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre386",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre387",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre388",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre389",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre390",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre391",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre392",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre393",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre394",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre395",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre396",
+    "age": 30,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre397",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre398",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre399",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre400",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre401",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre402",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre403",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre404",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre405",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre406",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre407",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre408",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre409",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre410",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre411",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre412",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre413",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre414",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre415",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre416",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre417",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre418",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre419",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre420",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre421",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre422",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre423",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre424",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre425",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre426",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre427",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre428",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre429",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre430",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre431",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre432",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre433",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre434",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre435",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre436",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre437",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre438",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre439",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre440",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre441",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre442",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre443",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre444",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre445",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre446",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre447",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre448",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre449",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre450",
+    "age": 23,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre451",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre452",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre453",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre454",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre455",
+    "age": 25,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre456",
+    "age": 26,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre457",
+    "age": 25,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre458",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre459",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre460",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre461",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre462",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre463",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre464",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre465",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre466",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre467",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre468",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre469",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre470",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre471",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre472",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre473",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre474",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre475",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre476",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre477",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre478",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre479",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre480",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre481",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre482",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre483",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre484",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre485",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre486",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre487",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre488",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre489",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre490",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre491",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre492",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre493",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre494",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre495",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre496",
+    "age": 26,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre497",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre498",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre499",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre500",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre501",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre502",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre503",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre504",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre505",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre506",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre507",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre508",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre509",
+    "age": 23,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre510",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre511",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre512",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre513",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre514",
+    "age": 30,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre515",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre516",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre517",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre518",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre519",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre520",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre521",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre522",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre523",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre524",
+    "age": 26,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre525",
+    "age": 26,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre526",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre527",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre528",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre529",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre530",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre531",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre532",
+    "age": 23,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre533",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre534",
+    "age": 23,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre535",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre536",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre537",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre538",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre539",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre540",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre541",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre542",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre543",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre544",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre545",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre546",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre547",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre548",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre549",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre550",
+    "age": 30,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre551",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre552",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre553",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre554",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre555",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre556",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre557",
+    "age": 26,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre558",
+    "age": 26,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre559",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre560",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre561",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre562",
+    "age": 30,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre563",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre564",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre565",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre566",
+    "age": 30,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre567",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre568",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre569",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre570",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre571",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre572",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre573",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre574",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre575",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre576",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre577",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre578",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre579",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre580",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre581",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre582",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre583",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre584",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre585",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre586",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre587",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre588",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre589",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre590",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre591",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre592",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre593",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre594",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre595",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre596",
+    "age": 30,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre597",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre598",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre599",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre600",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre601",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre602",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre603",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre604",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre605",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre606",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre607",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre608",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre609",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre610",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre611",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre612",
+    "age": 30,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre613",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre614",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre615",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre616",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre617",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre618",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre619",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre620",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre621",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre622",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre623",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre624",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre625",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre626",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre627",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre628",
+    "age": 25,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre629",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre630",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre631",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre632",
+    "age": 30,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre633",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre634",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre635",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre636",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre637",
+    "age": 23,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre638",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre639",
+    "age": 30,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre640",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre641",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre642",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre643",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre644",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre645",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre646",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre647",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre648",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre649",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre650",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre651",
+    "age": 30,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre652",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre653",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre654",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre655",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre656",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre657",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre658",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre659",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre660",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre661",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre662",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre663",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre664",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre665",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre666",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre667",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre668",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre669",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre670",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre671",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre672",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre673",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre674",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre675",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre676",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre677",
+    "age": 23,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre678",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre679",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre680",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre681",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre682",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre683",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre684",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre685",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre686",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre687",
+    "age": 30,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre688",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre689",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre690",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre691",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre692",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre693",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre694",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre695",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre696",
+    "age": 26,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre697",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre698",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre699",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre700",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre701",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre702",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre703",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre704",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre705",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre706",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre707",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre708",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre709",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre710",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre711",
+    "age": 23,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre712",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre713",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre714",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre715",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre716",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre717",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre718",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre719",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre720",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre721",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre722",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre723",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre724",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre725",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre726",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre727",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre728",
+    "age": 25,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre729",
+    "age": 26,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre730",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre731",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre732",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre733",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre734",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre735",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre736",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre737",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre738",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre739",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre740",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre741",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre742",
+    "age": 25,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre743",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre744",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre745",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre746",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre747",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre748",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre749",
+    "age": 25,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre750",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre751",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre752",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre753",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre754",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre755",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre756",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre757",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre758",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre759",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre760",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre761",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre762",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre763",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre764",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre765",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre766",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre767",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre768",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre769",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre770",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre771",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre772",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre773",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre774",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre775",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre776",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre777",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre778",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre779",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre780",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre781",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre782",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre783",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre784",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre785",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre786",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre787",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre788",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre789",
+    "age": 23,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre790",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre791",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre792",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre793",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre794",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre795",
+    "age": 26,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre796",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre797",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre798",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre799",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre800",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre801",
+    "age": 25,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre802",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre803",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre804",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre805",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre806",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre807",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre808",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre809",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre810",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre811",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre812",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre813",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre814",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre815",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre816",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre817",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre818",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre819",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre820",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre821",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre822",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre823",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre824",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre825",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre826",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre827",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre828",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre829",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre830",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre831",
+    "age": 26,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre832",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre833",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre834",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre835",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre836",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre837",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre838",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre839",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre840",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre841",
+    "age": 23,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre842",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre843",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre844",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre845",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre846",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre847",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre848",
+    "age": 30,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre849",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre850",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre851",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre852",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre853",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre854",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre855",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre856",
+    "age": 23,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre857",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre858",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre859",
+    "age": 26,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre860",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre861",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre862",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre863",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre864",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre865",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre866",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre867",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre868",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre869",
+    "age": 28,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre870",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre871",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre872",
+    "age": 26,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre873",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre874",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre875",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre876",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre877",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre878",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre879",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre880",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre881",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre882",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre883",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre884",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre885",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre886",
+    "age": 30,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre887",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre888",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre889",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre890",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre891",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre892",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre893",
+    "age": 25,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre894",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre895",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre896",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre897",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre898",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre899",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre900",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre901",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre902",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre903",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre904",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre905",
+    "age": 30,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre906",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre907",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre908",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre909",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre910",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre911",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre912",
+    "age": 26,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre913",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre914",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre915",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre916",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre917",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre918",
+    "age": 23,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre919",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre920",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre921",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre922",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre923",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre924",
+    "age": 26,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre925",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre926",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre927",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre928",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre929",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre930",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre931",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre932",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre933",
+    "age": 19,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre934",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre935",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre936",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre937",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre938",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre939",
+    "age": 30,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre940",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre941",
+    "age": 30,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre942",
+    "age": 22,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre943",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre944",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre945",
+    "age": 25,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre946",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre947",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre948",
+    "age": 29,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre949",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre950",
+    "age": 27,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre951",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre952",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre953",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre954",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre955",
+    "age": 21,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre956",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre957",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre958",
+    "age": 31,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre959",
+    "age": 22,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre960",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre961",
+    "age": 32,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre962",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre963",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre964",
+    "age": 23,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre965",
+    "age": 25,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre966",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre967",
+    "age": 25,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre968",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre969",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre970",
+    "age": 21,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre971",
+    "age": 30,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre972",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre973",
+    "age": 27,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre974",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 3
+  },
+  {
+    "student": "nombre975",
+    "age": 23,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre976",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre977",
+    "age": 24,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre978",
+    "age": 32,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre979",
+    "age": 31,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre980",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre981",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre982",
+    "age": 28,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre983",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre984",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre985",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre986",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre987",
+    "age": 33,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre988",
+    "age": 25,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre989",
+    "age": 29,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre990",
+    "age": 30,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre991",
+    "age": 23,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre992",
+    "age": 26,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre993",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre994",
+    "age": 24,
+    "faculty": "Ingenieria",
+    "discipline": 1
+  },
+  {
+    "student": "nombre995",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 1
+  },
+  {
+    "student": "nombre996",
+    "age": 25,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre997",
+    "age": 20,
+    "faculty": "Ingenieria",
+    "discipline": 2
+  },
+  {
+    "student": "nombre998",
+    "age": 20,
+    "faculty": "Agronomia",
+    "discipline": 2
+  },
+  {
+    "student": "nombre999",
+    "age": 19,
+    "faculty": "Ingenieria",
+    "discipline": 3
+  },
+  {
+    "student": "nombre1000",
+    "age": 33,
+    "faculty": "Agronomia",
+    "discipline": 3
+  }
+]

@@ -50,3 +50,46 @@ kubectl rollout restart deployment redis -n redis
 
 kubectl exec -it redis-57cd9b4cdf-vrwbl -n redis -- /bin/sh
 redis-cli
+
+
+
+
+
+
+
+
+----
+gcloud config set project py2-sopes1
+gcloud container clusters get-credentials sopes1 --zone us-east1-b
+
+
+
+---- Comandos gcp
+ka namesapce.yaml
+ka ingress.yaml
+ka goclient.yaml -n sopes1
+ka rustclient.yaml -n sopes1
+ka goserverAtletismo.yaml -n sopes1
+ka goserverNatacion.yaml  -n sopes1
+ka goserverBoxeo.yaml -n sopes1
+kubectl create namespace kafka
+kubectl apply -f https://strimzi.io/install/latest?namespace=kafka -n kafka
+kubectl apply -f https://strimzi.io/examples/latest/kafka/kraft/kafka-single-node.yaml -n kafka
+kubectl apply -f kafka-topic.yaml -n kafka
+ka kafka-consumer-winners.yaml -n sopes1 
+ka kafka-consumer-loser.yaml -n sopes1 
+
+go get github.com/go-redis/redis/v8
+kubectl create namespace redis
+ka redis.yaml -n redis
+kubectl get pods -n redis
+
+kubectl create namespace grafana
+kubectl apply -f grafana.yaml -n grafana
+
+--
+kubectl rollout restart deployment redis -n redis
+
+
+--Ejecutar redis
+kubectl exec -it redis-7fcf4f6777-2z7hx -n redis -- /bin/sh
