@@ -11,7 +11,7 @@ import (
 )
 
 var (
-	kafkaBroker = "my-cluster-kafka-bootstrap.kafka.svc.cluster.local:9092" // Kafka broker
+	kafkaBroker = "34.118.238.26:9092" // Kafka broker
 	topic       = "losers" // Tópico a consumir
 	redisAddr   = "redis-service.redis:6379" // Dirección del servidor Redis
 	redisClient *redis.Client

@@ -14,14 +14,14 @@ spec:
     spec:
       containers:
       - name: kafka-consumer-go-winners
-        image: juliofernandez99/consumer-winners:1.7
+        image: juliofernandez99/consumer-winners:2.1
         resources:
           limits:
             memory: "128Mi"
             cpu: "0.1"
         env:
         - name: KAFKA_BROKER
-          value: "my-cluster-kafka-bootstrap.kafka.svc.cluster.local:9092"
+          value: "34.118.238.26:9092"
         - name: KAFKA_TOPIC
           value: "winners"
         - name: REDIS_HOST

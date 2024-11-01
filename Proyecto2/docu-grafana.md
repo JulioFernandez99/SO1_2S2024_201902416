@@ -84,4 +84,8 @@ Accede a Grafana en tu navegador en `http://<node-ip>:50060`. El puerto `50060` 
 
 
 kubectl port-forward -n grafana grafana-67c647f54c-8dnks 50060:3000
+
+kubectl port-forward -n grafana grafana-67c647f54c-8dnks 50060:3000
+
+
 Address: redis-service.redis:6379

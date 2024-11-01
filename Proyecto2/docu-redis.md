@@ -17,7 +17,7 @@ kubectl get pods -n redis
 Busca el nombre del pod de Redis en la salida. Luego, accede al pod:
 
 ```bash
-kubectl exec -it redis-7fcf4f6777-2z7hx -n redis -- /bin/sh
+kubectl exec -it redis-7f64fc6ddf-5pkkz -n redis -- /bin/sh
 ```
 
 Reemplaza `<nombre-del-pod>` con el nombre real de tu pod de Redis.
